@@ -1,0 +1,3 @@
+* Intended users: Anna Kopec, Matthew Lamoureux (Gradescope by proxy)
+* This repository can potentially be used by other students from this semester or future semesters in order to use my work as their own. This is definitely a risk, but is offset to some degree by the existence of free response questions which generally require unique answers. Other than in that case, I can't think of any sensitive data or code present in this repository.
+* I've implemented the provided pull request ruleset, and ensured that my repo has a CODEOWNERS file with just me and my professor. I also don't allow just anyone to contribute, and have my github account properly backed up with 2FA and a secure password.
